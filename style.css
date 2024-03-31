@@ -30,3 +30,22 @@
     text-align: center;
     margin-left: 40%;
 }
+
+
+@media screen and (max-width: 700px) {
+    
+    .but{
+        /* background-image: url(image/download\ \(1\).jfif); */
+        background-color:  #d9105c !important;
+    }
+    
+    .img{
+        height: 10vh;
+        width: 13%;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        margin-left: 40%;
+    }
+      
+}
