@@ -1,0 +1,32 @@
+.background{
+    background-image: url(image/download\ \(1\).jfif);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.backgroundd{
+    background-image: url(image/download\ \(1\).jfif);
+    background-color: white;
+    /* height: 50vh; */
+    /* width: 100%; */
+    /* background-size: cover; */
+    box-shadow: 30px 30px;
+    /* opacity: 0.5; */
+    margin-top: 10% !important;
+}
+.inp{
+    border: 2px solid #d9105c ;
+}
+.but{
+    /* background-image: url(image/download\ \(1\).jfif); */
+    background-color:  #d9105c !important;
+}
+
+.img{
+    height: 10vh;
+    width: 10%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 40%;
+}

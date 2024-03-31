@@ -25,7 +25,7 @@ function displayTodo(){
         let ans = Math.round(Math.random()*100)
         console.log(ans + '%');
 
-        show.innerHTML = `<button style="background-color: brown; color: white; height: 5vh; width: 100%; margin-top: 3%;" >${calculator.yourName} and  ${calculator.partner}'s Love = ${ans + '%'}</button> `
+        show.innerHTML = `<button style="background-color: #910246; color: white; height: 5vh; width: 100%; margin-top: 3%;" >${calculator.yourName} and  ${calculator.partner}'s Love = ${ans + '%'}</button> `
 
     }
  }
